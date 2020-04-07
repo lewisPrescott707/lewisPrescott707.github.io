@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy Policy"
 permalink: /privacy-policy/
+---
 
 [Developer/Company name] built the Isolation Carbon Calculator app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by [Developer/Company name] [at no cost] and is intended for use as is.
 
